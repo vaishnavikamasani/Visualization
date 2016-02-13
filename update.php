@@ -737,7 +737,7 @@
 	<?php
 		$host="cs.okstate.edu"; 
 		$username="kamasan";
-		$password="klYv5O7";
+		$password="*********";
 		$db_name="kamasan"; 
 		mysql_connect("$host", "$username", "$password")or die("cannot connect"); 
 		mysql_select_db("$db_name")or die("cannot select DB");
